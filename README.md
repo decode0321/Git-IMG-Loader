@@ -11,4 +11,5 @@ Easily import ANY image from GitHub into Unity with the click of a button!
 # Material Loader Setup
 
 # Texture Loader Setup
-## We'll use this image for testing: ![test](https://github.com/user-attachments/assets/b2a967cc-421b-416a-bdd4-44282fb28bdb)
+## We'll use this image for testing: 
+![test](https://github.com/user-attachments/assets/b2a967cc-421b-416a-bdd4-44282fb28bdb)
