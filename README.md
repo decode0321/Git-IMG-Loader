@@ -1,2 +1,2 @@
-# UnityGitImporter
-Easily import ANY GitHub repository into Unity with the click of a button!
+# GitImgLoader
+Easily import ANY image from GitHub into Unity with the click of a button!
